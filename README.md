@@ -1,6 +1,6 @@
 # Open Source Software Audit: VLC Media Player
-**Student Name:** Asmit Upadhyay  
-**Repository Name:** oss-audit-Pubaso200  
+**Student Name:** Akshat Shahi
+**Repository Name:** https://github.com/akshat24bai10518-sketch/oss-linux)  
 [cite_start]**Chosen Software:** VLC Media Player [cite: 24]
 
 ## Project Description
